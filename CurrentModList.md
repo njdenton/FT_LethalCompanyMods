@@ -18,3 +18,15 @@ Enhances your multiplayer experience by notifying you of the required mods when 
 
 ### 6) **ShipLoot** by tinyhoot
 Reliably shows the total value of all scrap in your ship.
+
+### 7) **More_Suits** by x753
+Adds more suits to choose from, and can be used as a library to load your own suits!
+
+### 8) **LCSoundTool** by no00ob
+Required for angry_british_bug mod.
+
+### 9) **CustomSounds** by Clementinise
+Required for angry_british_bug mod.
+
+### 10) **angry_british_bug** by HoffmanTV
+Replaces Hoarder Bug audio with an Angry British Guy From an Xbox Voice Chat Message.
