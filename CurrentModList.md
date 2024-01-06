@@ -31,5 +31,8 @@ Required for angry_british_bug mod.
 ### 10) **angry_british_bug** by HoffmanTV
 Replaces Hoarder Bug audio with an Angry British Guy From an Xbox Voice Chat Message.
 
+### 11) **HornMoan** by MetalPipeSFX
+Airhorn is replaced with the much better pornhub moan
 
-Last Updated: 01-04-2023
+
+Last Updated: 01-05-2024
