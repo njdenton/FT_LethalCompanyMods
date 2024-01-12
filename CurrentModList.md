@@ -13,26 +13,23 @@ Adds more emotes. :middle_finger:
 ### 4) **LateCompany** by anormaltwig
 Allows players to join after the game starts.
 
-### 5) **Compatibility Checker** by Ryokune
-Enhances your multiplayer experience by notifying you of the required mods when failing to join modded servers.
-
-### 6) **ShipLoot** by tinyhoot
+### 5) **ShipLoot** by tinyhoot
 Reliably shows the total value of all scrap in your ship.
 
-### 7) **More_Suits** by x753
+### 6) **More_Suits** by x753
 Adds more suits to choose from, and can be used as a library to load your own suits!
 
-### 8) **LCSoundTool** by no00ob
+### 7) **LCSoundTool** by no00ob
 Required for angry_british_bug mod.
 
-### 9) **CustomSounds** by Clementinise
+### 8) **CustomSounds** by Clementinise
 Required for angry_british_bug mod.
 
-### 10) **angry_british_bug** by HoffmanTV
+### 9) **angry_british_bug** by HoffmanTV
 Replaces Hoarder Bug audio with an Angry British Guy From an Xbox Voice Chat Message.
 
-### 11) **HornMoan** by MetalPipeSFX
+### 10) **HornMoan** by MetalPipeSFX
 Airhorn is replaced with the much better pornhub moan
 
 
-Last Updated: 01-05-2024
+Last Updated: 01-12-2024
