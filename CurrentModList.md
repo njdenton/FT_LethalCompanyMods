@@ -19,16 +19,10 @@ Reliably shows the total value of all scrap in your ship.
 ### 6) **More_Suits** by x753
 Adds more suits to choose from, and can be used as a library to load your own suits!
 
-### 7) **LCSoundTool** by no00ob
+### 7) **YippeeMod** by sunnobunno
 Required for angry_british_bug mod.
 
-### 8) **CustomSounds** by Clementinise
-Required for angry_british_bug mod.
-
-### 9) **angry_british_bug** by HoffmanTV
-Replaces Hoarder Bug audio with an Angry British Guy From an Xbox Voice Chat Message.
-
-### 10) **HornMoan** by MetalPipeSFX
+### 8) **HornMoan** by MetalPipeSFX
 Airhorn is replaced with the much better pornhub moan
 
 
